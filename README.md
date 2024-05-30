@@ -1,9 +1,9 @@
-# portfolio
+# Mingming Chen
 Mingming's portfolio
-### Education
+## Education
 
 
-### Service & Activity
+## Service & Activity
 
 
-### Experience
+## Experience
