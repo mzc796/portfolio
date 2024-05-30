@@ -7,15 +7,15 @@ I am a PhD candidate at Penn State University, University Park. I am honored to 
   - School of Ethnic Minority Education                                |            |      	   Sept. 2012 – Jun. 2013
 - B.S. | Communication Engineering                   |      North China Institute of Science and Technology |           Sept. 2008 – Jun. 2012
 ## Service & Activity
--Reviewer
-  -IEEE Transactions on Network and Service Management (TNSM)
--CSE Summer Camp for Girls          	        	        					|	Volunteer     	  	        	      |  	           				      Jun. 10 - 14, 2024
--Girls Who Code       	       	                                  	   |    						Volunteer  	        	        	        |	           		     Mar. 14 - April 25, 2021
--OpenDaylight Summit 2016            	                    	        	 |       			Invited Speaker                   	         |                    Sept.26-29, 2016 
--OpenDaylight meetup in Shenzhen/Shanghai         		|					Invited Speaker                                                       	 			   Jun. 16/3, 2016   
--Online SDN Technical Sharing                                  |          	        			Invited speaker               |                               Nov.18, 2015 
--SDN Training-cum-Expert Symposium                   	        |					Student Representative                 |                                       			  Oct.18-20, 2015
--SDN Technical Conference of Nanjing                      	     |   					Invited Speaker                            |                   	        	 Jul. 11, 2015
+- Reviewer
+  - IEEE Transactions on Network and Service Management (TNSM)
+- CSE Summer Camp for Girls          	        	        					|	Volunteer     	  	        	      |  	           				      Jun. 10 - 14, 2024
+- Girls Who Code       	       	                                  	   |    						Volunteer  	        	        	        |	           		     Mar. 14 - April 25, 2021
+- OpenDaylight Summit 2016            	                    	        	 |       			Invited Speaker                   	         |                    Sept.26-29, 2016 
+- OpenDaylight meetup in Shenzhen/Shanghai         		|					Invited Speaker                                                       	 			   Jun. 16/3, 2016   
+- Online SDN Technical Sharing                                  |          	        			Invited speaker               |                               Nov.18, 2015 
+- SDN Training-cum-Expert Symposium                   	        |					Student Representative                 |                                       			  Oct.18-20, 2015
+- SDN Technical Conference of Nanjing                      	     |   					Invited Speaker                            |                   	        	 Jul. 11, 2015
 
 ## Experience
 -Intel Connectivity Academy - P4 Data Plane Programming Online Course                                                                                        |	May. 2021 – Jun. 2021
